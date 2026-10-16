@@ -50,11 +50,11 @@ Used a 15-row rolling median to flag minimum-temperature readings that differed 
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/harshatentu05-spec/Mars-Weather-Analysis
 cd Mars_Analyser
 ```
 
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual repository URL.
+
 
 ### 2. Create and activate a virtual environment
 
